@@ -7,7 +7,6 @@ Here are a few things about me:
 
 - 🔭 I’m currently working on NES Game Development
 - 🌱 I’m currently learning [Linear Logic](https://en.wikipedia.org/wiki/Linear_logic)
-- 👀 I’m looking to collaborate on [nubank](https://github.com/nubank)
 - 💬 Ask me about [sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus)
 - 😅  Fun fact: You have probably seen this template before
 
