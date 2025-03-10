@@ -8,7 +8,7 @@ My name is Renan Ribeiro, I am an enthusiastic Brazilian developer. I love learn
 - I like talking about cool things
 
 ### Some open source contributions I am proud of
-- Performance improvements via multithreading for [nushell](https://github.com/nushell/nushell/pull/14627) (Rust)
-- New linter for [clj-kondo](https://github.com/clj-kondo/clj-kondo/pull/2209) (Clojure)
-- API improvements for [manifold](https://github.com/clj-commons/manifold/pull/225) (Clojure)
-- General bugfixes for [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution/pull/1824) (Java)
+- Implemented the longed-for background jobs for [nushell](https://github.com/nushell/nushell/pull/14883) (Rust)
+- Added a new linter for [clj-kondo](https://github.com/clj-kondo/clj-kondo/pull/2209) (Clojure)
+- Performed API improvements for [manifold](https://github.com/clj-commons/manifold/pull/225) (Clojure)
+- Applied general bugfixes for [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution/pull/1824) (Java)
