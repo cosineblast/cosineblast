@@ -5,7 +5,7 @@ My name is Renan Ribeiro, I am an enthusiastic Brazilian developer. I love learn
 ### Things about me
 
 - I’m currently working on improving [nushell](https://www.nushell.sh/)
-- I like talking about cool things
+- I like talking about random stuff
 
 ### Some open source contributions I am proud of
 - Implemented the longed-for background jobs for [nushell](https://github.com/nushell/nushell/pull/14883) (Rust)
